@@ -2,9 +2,9 @@
 
 ### Material
 
-#### Apuntes:
+#### Apunte:
 
-En el directorio "apuntes" se podrán encontrar los siguientes archivos:
+En el directorio "apuntes" se podrÃ¡n encontrar los siguientes archivos:
 * Funciones_y_bibliotecas.pdf
 
 #### Video tutoriales:
@@ -20,16 +20,16 @@ En el directorio "apuntes" se podrán encontrar los siguientes archivos:
            - getFloat()
            - getChar()
 
-   *  Diseñar un programa para jugar a adivinar un número entre 0 y 100.
-       El juego tiene que dar pistas de si el número introducido por el
-       jugador está por encima o por debajo. El juego termina cuando se
-       adivina el número o se decide terminar de jugar ingresando un número
+   *  DiseÃ±ar un programa para jugar a adivinar un nÃºmero entre 0 y 100.
+       El juego tiene que dar pistas de si el nÃºmero introducido por el
+       jugador estÃ¡ por encima o por debajo. El juego termina cuando se
+       adivina el nÃºmero o se decide terminar de jugar ingresando un nÃºmero
        negativo. Permitir jugar tantas veces como lo desee el jugador y al
-       salir mostrar su mejor puntuación. Utilizar la biblioteca del punto 1.
+       salir mostrar su mejor puntuaciÃ³n. Utilizar la biblioteca del punto 1.
 
 - Version: 0.1 del 29 diciembre de 2015
-- Autor: Mauricio Dávila
-- Revisión: Ernesto Gigliotti
+- Autor: Mauricio DÃ¡vila
+- RevisiÃ³n: Ernesto Gigliotti
 
 #### Aspectos a destacar:
-*   Se practica la declaración de funciones y se muestra como crear una biblioteca propia y utilizarla en un programa.
+*   Se practica la declaraciÃ³n de funciones y se muestra como crear una biblioteca propia y utilizarla en un programa.
